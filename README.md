@@ -1,5 +1,7 @@
 # Cookies.js
 
+### Looks like the real author of Cookies.js has gone for good, until then i will be maintaining this forked repo!
+
 Cookies.js is a small client-side javascript library that makes managing cookies easy.
 
 [Features](#features)  
