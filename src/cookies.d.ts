@@ -9,6 +9,7 @@ interface CookieOptions {
     domain?: string;
     expires?: any;
     secure?: boolean;
+    sameSite?: any;
 }
 
 interface CookiesStatic {
